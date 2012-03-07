@@ -1,2 +1,2 @@
 #!/bin/sh
-/opt/mongodb/bin/mongod --config /opt/config/mongodb \
+/usr/local/mongodb/bin/mongod --config /usr/local/config/mongodb \
